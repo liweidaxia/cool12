@@ -8,4 +8,8 @@ public class Demo {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+    public void test (){
+        int a = 0;
+        a+=10;
+    }
 }
